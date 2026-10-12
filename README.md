@@ -1,4 +1,4 @@
-![Превью репозитория](assets/github-mainpage.png)
+<img src="assets/github-mainpage.png" alt="Превью репозитория" width="600">
 
 # Content - Egor Skeeedz
 
