@@ -1,3 +1,5 @@
+![Превью репозитория](assets/github-mainpage.png)
+
 # Content - Egor Skeeedz
 
 > Репозиторий с файлами контента для личного техноблога
