@@ -1,4 +1,6 @@
-<img src="assets/github-mainpage.png" alt="Превью репозитория" width="600">
+<div align="center">
+  <img src="assets/твое_изображение.png" alt="Превью репозитория" width="800" style="max-width: 100%;">
+</div>
 
 # Content - Egor Skeeedz
 
