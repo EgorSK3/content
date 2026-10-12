@@ -12,7 +12,7 @@
 ### Струтура
 | Папка                     | Описание                                      |
 | ------------------------- | --------------------------------------------- |
-| tables/de-comparison-2026 | Таблица сравнения 10 DE и 1 WM в Linux (Arch) |
+| [tables/de-comparison-2026/](tables/de-comparison-2026/) | Таблица сравнения 10 DE и 1 WM в Linux (Arch) |
 
 ### Ссылки
 - [YouTube](https://youtube.com/@sk3dz)
